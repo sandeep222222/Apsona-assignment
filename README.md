@@ -22,3 +22,16 @@ This project is a note-keeping web application inspired by Google Keep. It allow
 - **Backend**: Node.js, Express.js, MongoDB
 - **Frontend**: HTML, CSS, JavaScript (with optional jQuery)
 - **Authentication**: JWT (JSON Web Tokens)
+
+  
+## Deployed URL
+
+https://notes-app-91da1.web.app/
+
+
+## Render Deployed URL
+
+
+https://apsona-assignment-405d.onrender.com/
+
+
